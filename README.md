@@ -1,2 +1,2 @@
 # MultiArmBanditExploration
-Exploring the various MAB techniques and comparing performance
+Exploring various MAB techniques and comparing performance
